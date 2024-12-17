@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Personal Blog
+title: PersonalBlog
 
 # Name pronunciation (optional)
 name_pronunciation: Muhammad Robeth Suprayitno
