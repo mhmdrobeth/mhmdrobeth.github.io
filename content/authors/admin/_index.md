@@ -1,9 +1,9 @@
 ---
 # Display name
-title: PersonalBlog
+title: Angk' 23
 
 # Name pronunciation (optional)
-name_pronunciation: Muhammad Robeth Suprayitno
+name_pronunciation: MUHAMMAD ROBETH SUPRAYITNO
 
 # Full name (for SEO)
 first_name: Robeth
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mhdddrobethh@gmail.com'
+    url: 'mailto:mhdddrobethh@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/syazenaa?s=21
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/dashboard
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/muhammad-robeth-0057352b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
