@@ -31,14 +31,14 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mhdddrobethh@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/syazenaa?s=21
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/mhmdrobeth
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/dashboard
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi!, i'm Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute Of Statistics and Business Semarang who has experience in network engineering, data design and data processing, such as database managament system and data warehouses.
