@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Personal Blog
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Muhammad Robeth Suprayitno
 
 # Full name (for SEO)
 first_name: Robeth
