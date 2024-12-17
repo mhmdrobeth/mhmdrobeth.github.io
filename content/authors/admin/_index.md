@@ -47,11 +47,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-     - Networking
-     - Cloud Computing
-     - Data Management & Integration
-     - Network Infrastructure Management and Maintenance
-     - Virtualization and Containerization
+  - Networking
+  - Cloud Computing
+  - Data Management & Integration
+  - Network Infrastructure Management and Maintenance
+  - Virtualization and Containerization
   
 education:
   - area: Software Engineering
@@ -63,10 +63,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer and Network Engineering
+    institution: SMK N 3 Kendal
+    date_start: 2020-06-12
+    date_end: 2023-5-14
     summary: |
       GPA: 3.8/4.0
 
