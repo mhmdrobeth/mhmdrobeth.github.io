@@ -52,7 +52,6 @@ interests:
   - Data Management & Integration
   - Network Infrastructure Management and Maintenance
   - Virtualization and Containerization
-
 education:
   - area: Software Engineering
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
