@@ -47,10 +47,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Networking
+  - Cloud Computing
+  - Data Management & Integration
+  - Network Infrastructure Management and Maintenance
+  - Virtualization and Containerization
+  
 education:
   - area: PhD Artificial Intelligence
     institution: Stanford University
