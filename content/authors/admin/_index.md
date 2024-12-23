@@ -41,10 +41,6 @@ profiles:
     url: https://github.com/dashboard
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/muhammad-robeth-0057352b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
 
 interests:
   - Networking
