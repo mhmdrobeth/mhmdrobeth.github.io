@@ -57,7 +57,7 @@ education:
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
     date_start: 2023-01-14
     date_end: 2023-05-12
-    summary: |
+    summary: |2-
     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: "Read Thesis"
