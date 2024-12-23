@@ -1,6 +1,6 @@
 ---
 # Display name
-title: New Journey
+title: Network Analyst & Software Engineer
 
 # Name pronunciation (optional)
 name_pronunciation: MUHAMMAD ROBETH SUPRAYITNO
@@ -24,7 +24,7 @@ role: Infrastructure Support for Analysts and IT Network System Administration
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: DBS Coding Camp
+  - name: Dicoding DBS Coding Camp
     url: https://www.dicoding.com/programs/dbscodingcamp/registration
 
 # Social network links
@@ -57,7 +57,8 @@ education:
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
     date_start: 2023-01-14
     date_end: 2023-05-12
-    summary: Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: "Read Thesis"
       url: "https://example.com"
@@ -65,7 +66,7 @@ education:
     institution: SMK N 3 Kendal
     date_start: 2020-06-12
     date_end: 2023-5-14
-    summary: |
+    summary:  
       GPA: 3.8/4.0
 
       Courses included:
@@ -90,7 +91,7 @@ work:
     company_logo: ""
     date_start: 2021-01-01
     date_end: ""
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Hi!, i'm Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute Of Statistics and Business Semarang who has experience in network engineering, data design and data processing, such as database managament system and data warehouses.
+Hi, I’m Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute of Statistics and Business Semarang. I have experience in network engineering, data design, and data processing, including database management systems and data warehouses. My passion lies in optimizing systems for better efficiency and scalability.
