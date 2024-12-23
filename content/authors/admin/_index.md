@@ -57,8 +57,8 @@ education:
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
     date_start: 2023-01-14
     date_end: 2023-05-12
-    summary: |2-
-    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: "Read Thesis"
       url: "https://example.com"
@@ -66,13 +66,13 @@ education:
     institution: SMK N 3 Kendal
     date_start: 2020-06-12
     date_end: 2023-5-14
-    summary:  
+    summary:
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
