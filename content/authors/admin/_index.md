@@ -65,7 +65,7 @@ education:
   - area: Computer and Network Engineering
     institution: SMK N 3 Kendal
     date_start: 2020-06-12
-    date_end: 2023-5-14
+    date_end: 2023-05-14
     summary:
       GPA: 3.8/4.0
 
