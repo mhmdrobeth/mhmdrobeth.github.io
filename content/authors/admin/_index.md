@@ -3,7 +3,7 @@
 title: New Journey
 
 # Name pronunciation (optional)
-name_pronunciation: MUHAMMAD ROBETH
+name_pronunciation: MUHAMMAD ROBETH SUPRAYITNO
 
 # Full name (for SEO)
 first_name: Robeth
@@ -57,8 +57,7 @@ education:
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
     date_start: 2023-01-01
     date_end:
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: "Read Thesis"
       url: "https://example.com"
