@@ -3,7 +3,7 @@
 title: New Journey
 
 # Name pronunciation (optional)
-name_pronunciation: MUHAMMAD ROBETH SUPRAYITNO
+name_pronunciation: MUHAMMAD ROBETH
 
 # Full name (for SEO)
 first_name: Robeth
