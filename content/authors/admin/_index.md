@@ -77,11 +77,11 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: IT Developer
+    company_name: Siba Surya
     company_url: ""
     company_logo: ""
-    date_start: 2021-01-01
+    date_start: 2023-06-09
     date_end: ""
     summary: |
       Responsibilities include:
@@ -176,4 +176,4 @@ awards:
 
 ## About Me
 
-Hi, I’m Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute of Statistics and Business Semarang. I have experience in network engineering, data design, and data processing, including database management systems and data warehouses. My passion lies in optimizing systems for better efficiency and scalability.
+Hi, I’m Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute of Statistics and Business Semarang. I have experience in network engineering, data design, and data processing, including database management systems and data warehouses.
