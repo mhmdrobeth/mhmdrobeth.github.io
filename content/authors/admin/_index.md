@@ -52,7 +52,7 @@ education:
   - area: Software Engineering
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
     date_start: 2023-01-14
-    date_end: 2023-05-12
+    date_end: 
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -61,7 +61,7 @@ education:
   - area: Computer and Network Engineering
     institution: SMK N 3 Kendal
     date_start: 2020-06-12
-    date_end:
+    date_end: 2023-05-09
     summary: |
       "GPA":"3.8/4.0"}
 
@@ -70,35 +70,35 @@ education:
         - lorem ipsum dolor sit amet, consectetur adipiscing elit
         - lorem ipsum dolor sit amet, consectetur adipiscing elit
     summary: |
-      GPA: 3.4/4.0
+      "GPA":" 3.4/4.0"}
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: IT Developer
-    company_name: Siba Surya
+  - position: Networking and Technician
+    company_name: PT VIOVERA MARLI SEJAHTERA
     company_url: ""
     company_logo: ""
     date_start: 2023-06-09
     date_end: ""
     summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Installation and repair Access Control, CCTV, and Gate Parking
+      - Design and execute marketing strategy
+      - Plan mapping
+  - position: Network Engineer
+    company_name: CV JARINGAN TELEKOMUNIKASI SUKOWATI
     company_url: ""
     company_logo: ""
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Lead the network installation project via online and offline
+      - Manage project that are already running
+      - Develop additional features for network security
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
