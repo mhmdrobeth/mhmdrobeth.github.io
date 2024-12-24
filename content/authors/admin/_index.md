@@ -54,17 +54,16 @@ education:
     date_start: 2023-01-14
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Students of the software engineering study program from the Statistics and Business Technology Institute of Muhammadiyah Semarang, are active in the organization and have an interest in learning new things. Also interested in game development and technopreneur.
     button:
-      text: "Read Thesis"
-      url: "https://example.com"
+      text: "Read About College"
+      url: "https://pmb.itesa.ac.id/"
   - area: Computer and Network Engineering
     institution: SMK N 3 Kendal
     date_start: 2020-06-12
     date_end: 2023-05-09
     summary: |
-      "GPA":"3.8/4.0"}
-
+      
       Courses included:
         - lorem ipsum dolor sit amet, consectetur adipiscing elit
         - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -81,8 +80,8 @@ work:
     company_name: PT VIOVERA MARLI SEJAHTERA
     company_url: ""
     company_logo: ""
-    date_start: 2023-06-09
-    date_end: ""
+    date_start: 2023-04-09
+    date_end: 2023-10-02
     summary: |
       Responsibilities include:
       - Installation and repair Access Control, CCTV, and Gate Parking
@@ -92,8 +91,8 @@ work:
     company_name: CV JARINGAN TELEKOMUNIKASI SUKOWATI
     company_url: ""
     company_logo: ""
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-12-07
+    date_end: 2022-03-16
     summary: |
       Responsibilities include:
       - Lead the network installation project via online and offline
@@ -123,7 +122,7 @@ skills:
     items:
       - name: Hiking
         description: ""
-        percent: 60
+        percent: 80
         icon: person-simple-walk
       - name: Cats
         description: ""
@@ -135,12 +134,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
