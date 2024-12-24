@@ -116,12 +116,12 @@ skills:
         icon: person-simple-walk
       - name: Football
         description: ""
-        percent: 80
-        icon: ball
+        percent: 90
+        icon: futbol
       - name: Badminton
         description: ""
         percent: 100
-        icon: shuttlecock
+        icon: custom-badminton-icon.svg
 
 languages:
   - name: Indonesia
