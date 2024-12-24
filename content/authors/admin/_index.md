@@ -52,7 +52,7 @@ education:
   - area: Software Engineering
     institution: Insitute of Statistics and Business Technology Muhammadiyah Semarang
     date_start: 2023-01-14
-    date_end: 
+    date_end:
     summary: |
       Students of the software engineering study program from the Statistics and Business Technology Institute of Muhammadiyah Semarang, are active in the organization and have an interest in learning new things. Also interested in game development and technopreneur.
     button:
@@ -63,18 +63,8 @@ education:
     date_start: 2020-06-12
     date_end: 2023-05-09
     summary: |
-      
-      Courses included:
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    summary: |
-      "GPA":" 3.4/4.0"}
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      I am a graduate of SMK Negeri 3 Kendal, majoring in Computer and Network Engineering. I have a solid understanding of various hardware components such as motherboards, processors, RAM, and other devices that support the performance of a computer. Additionally, I have experience in assembling, repairing, and maintaining computer hardware, as well as skills in managing computer networks, including installation, configuration, and troubleshooting. My passion lies in the field of information technology, particularly in hardware repair and assembly, as well as network system management. I am eager to continue developing my skills in this area, as I believe that information technology plays a crucial role in the advancement of the modern world.
 work:
   - position: Networking and Technician
     company_name: PT VIOVERA MARLI SEJAHTERA
