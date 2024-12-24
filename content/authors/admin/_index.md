@@ -116,11 +116,11 @@ skills:
         icon: person-simple-walk
       - name: Football
         description: ""
-        percent: 100
+        percent: 80
         icon: ball
       - name: Badminton
         description: ""
-        percent: 80
+        percent: 100
         icon: shuttlecock
 
 languages:
