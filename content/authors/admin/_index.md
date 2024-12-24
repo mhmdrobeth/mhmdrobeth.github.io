@@ -3,7 +3,7 @@
 title: Network Analyst & Software Engineer
 
 # Name pronunciation (optional)
-name_pronunciation: MUHAMMAD ROBETH SUPRAYITNO
+name_pronunciation: Muhammad Robeth Suprayitno
 
 # Full name (for SEO)
 first_name: Robeth
@@ -114,14 +114,14 @@ skills:
         description: ""
         percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Football
         description: ""
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: ball
+      - name: Badminton
         description: ""
         percent: 80
-        icon: camera
+        icon: shuttlecock
 
 languages:
   - name: Indonesia
