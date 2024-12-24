@@ -117,11 +117,11 @@ skills:
       - name: Football
         description: ""
         percent: 90
-        icon: futbol
+        icon: fas fa-futbol
       - name: Badminton
         description: ""
         percent: 100
-        icon: custom-badminton-icon.svg
+        icon: fas fa-shuttlecock
 
 languages:
   - name: Indonesia
