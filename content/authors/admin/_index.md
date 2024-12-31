@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Network Analyst & Software Engineer
+title: Muhammad Robeth Suprayitno
 
 # Name pronunciation (optional)
-name_pronunciation: Muhammad Robeth Suprayitno
+name_pronunciation: Network Analyst
 
 # Full name (for SEO)
-first_name: Robeth
-last_name: Suprayitno
+first_name:
+last_name:
 
 # Status emoji
 status:
