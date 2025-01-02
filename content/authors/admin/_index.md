@@ -3,7 +3,7 @@
 title: Muhammad Robeth Suprayitno
 
 # Name pronunciation (optional)
-name_pronunciation: Network Analyst
+name_pronunciation:
 
 # Full name (for SEO)
 first_name:
