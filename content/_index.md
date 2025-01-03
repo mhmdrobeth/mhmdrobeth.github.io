@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: content/teaching/CV Update Robeth.pdf
+        url: file:///E:/Projek%20Smt3/Git/Programs/mhmdrobeth.github.io/mhmdrobeth.github.io/content/teaching/CV%20Update%20Robeth.pdf
     design:
       css_class: dark
       background:
