@@ -134,31 +134,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: "2023-11-25"
-    awarder: Coursera
-    icon: coursera
+  - title: "Ready4A1&Security Training Progran Microsoff SC-900"
+    url: https://drive.google.com/file/d/1GtC99NJYVquASjRyhBnuXq9ttI4gYUJc/view?usp=drivesdk
+    date: "2024-07-01"
+    awarder: 
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: "2023-07-01"
-    awarder: edX
-    icon: edx
+      I am pleased to formally acknowledge the successful completion of the Cybersecurity in Ready4AI & Security Program, which has provided me with a comprehensive understanding of advanced cybersecurity principles and the strategic implementation of cutting-edge technologies to safeguard data integrity and ensure robust protection of information systems.
+
+  - title: "Work Safety Poster Design Universitas Gadjah Mada"
+    url: https://drive.google.com/file/d/14TrZBv5nwUwldBEifBh9DEe6K0MV8uoh/view?usp=drivesdk
+    date: "2024-06-29"
+    awarder: 
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: "Object-Oriented Programming in R"
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+      This certificate recognizes participation in the National Occupational Safety and Health (K3) Poster Design Competition organized by Universitas Gadjah Mada. It acknowledges the recipient's creativity and effort in promoting K3 awareness through innovative design, contributing to the event's success and the dissemination of important safety and health messages.
+
+  - title: "Indonesia Medical Olimpiade"
+    url: https://drive.google.com/file/d/1NhQKLR49VyAlJbh-BmuYcYYtgBso8NmP/view?usp=drivesdk
     certificate_url: https://www.datacamp.com
-    date: "2023-01-21"
-    awarder: datacamp
-    icon: datacamp
+    date: "2024-05-18"
+    awarder: 
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      This certificate is awarded for achieving 1st place in a national-level accounting competition for higher education institutions. It recognizes the recipient's exceptional knowledge, skills, and dedication in the field of accounting, demonstrating excellence and setting a standard of achievement in academic and professional competencies at the national level.
 ---
 
 ## About Me
