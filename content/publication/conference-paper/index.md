@@ -6,7 +6,7 @@ title: 'Journal of Community Service Archipelago'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Robeth
 
 # Author notes (optional)
 author_notes:
