@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: file:///E:/Projek%20Smt3/Git/Programs/mhmdrobeth.github.io/mhmdrobeth.github.io/content/teaching/CV%20Update%20Robeth.pdf
+        url: https://drive.google.com/file/d/1OBXU2FkqN_ng-qc5eQwLRdkdRz8EXVx2/view?usp=drivesdk
     design:
       css_class: dark
       background:
