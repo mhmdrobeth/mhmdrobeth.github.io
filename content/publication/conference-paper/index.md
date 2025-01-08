@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-06-20T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,10 +28,10 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Jurnal ini membahas dampak penggunaan media sosial Shopee terhadap pendapatan bisnis online di Amposari Village, Semarang. Penelitian ini dilakukan melalui pelatihan yang melibatkan Dasa Wisma wanita yang terlibat dalam berbagai sektor, seperti pertanian dan pengelolaan sampah, dengan tujuan meningkatkan literasi digital dan kemampuan mereka dalam mengoptimalkan bisnis melalui platform Shopee. Hasil penelitian menunjukkan bahwa peserta sangat antusias dan kooperatif, dengan 80% dari mereka memahami materi yang disampaikan. Pelatihan ini berhasil meningkatkan kemampuan peserta dalam memanfaatkan media sosial untuk berwirausaha, serta menunjukkan bahwa Shopee memiliki pengaruh signifikan dalam meningkatkan pendapatan bisnis online. Namun, penelitian lebih lanjut diperlukan untuk mengeksplorasi strategi yang paling efektif dalam memanfaatkan fitur-fitur Shopee untuk memaksimalkan pendapatan.
+abstract: This journal discusses the impact of using the Shopee social media platform on the income of online businesses in Amposari Village, Semarang. The study was conducted through training sessions involving Dasa Wisma women engaged in various sectors, such as agriculture and waste management, aiming to enhance their digital literacy and skills in optimizing businesses through Shopee. The findings reveal that participants were highly enthusiastic and cooperative, with 80% of them comprehending the materials presented. The training successfully improved the participants' ability to utilize social media for entrepreneurship and demonstrated that Shopee has a significant influence on increasing online business income. However, further research is needed to explore the most effective strategies for leveraging Shopee's features to maximize income.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:This study highlights Shopee's significant role in boosting online business income through training that enhances digital literacy and entrepreneurship among Dasa Wisma women in Amposari Village.
 
 tags:
 
