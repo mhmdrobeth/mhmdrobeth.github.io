@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Journal of Community Service Archipelago'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,7 +28,7 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Jurnal ini membahas dampak penggunaan media sosial Shopee terhadap pendapatan bisnis online di Amposari Village, Semarang. Penelitian ini dilakukan melalui pelatihan yang melibatkan Dasa Wisma wanita yang terlibat dalam berbagai sektor, seperti pertanian dan pengelolaan sampah, dengan tujuan meningkatkan literasi digital dan kemampuan mereka dalam mengoptimalkan bisnis melalui platform Shopee. Hasil penelitian menunjukkan bahwa peserta sangat antusias dan kooperatif, dengan 80% dari mereka memahami materi yang disampaikan. Pelatihan ini berhasil meningkatkan kemampuan peserta dalam memanfaatkan media sosial untuk berwirausaha, serta menunjukkan bahwa Shopee memiliki pengaruh signifikan dalam meningkatkan pendapatan bisnis online. Namun, penelitian lebih lanjut diperlukan untuk mengeksplorasi strategi yang paling efektif dalam memanfaatkan fitur-fitur Shopee untuk memaksimalkan pendapatan.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -45,13 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
