@@ -152,7 +152,7 @@ awards:
 
   - title: "Indonesia Medical Olimpiade"
     url: https://drive.google.com/file/d/1NhQKLR49VyAlJbh-BmuYcYYtgBso8NmP/view?usp=drivesdk
-    certificate_url: https://www.datacamp.com
+    
     date: "2024-05-18"
     awarder: 
     icon: 
