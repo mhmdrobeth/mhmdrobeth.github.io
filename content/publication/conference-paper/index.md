@@ -31,7 +31,7 @@ publication_short: In *ICW*
 abstract: This journal discusses the impact of using the Shopee social media platform on the income of online businesses in Amposari Village, Semarang. The study was conducted through training sessions involving Dasa Wisma women engaged in various sectors, such as agriculture and waste management, aiming to enhance their digital literacy and skills in optimizing businesses through Shopee. The findings reveal that participants were highly enthusiastic and cooperative, with 80% of them comprehending the materials presented. The training successfully improved the participants' ability to utilize social media for entrepreneurship and demonstrated that Shopee has a significant influence on increasing online business income. However, further research is needed to explore the most effective strategies for leveraging Shopee's features to maximize income.
 
 # Summary. An optional shortened abstract.
-summary:This study highlights Shopee's significant role in boosting online business income through training that enhances digital literacy and entrepreneurship among Dasa Wisma women in Amposari Village.
+summary: This study highlights Shopee's significant role in boosting online business income through training that enhances digital literacy and entrepreneurship among Dasa Wisma women in Amposari Village.
 
 tags:
 
