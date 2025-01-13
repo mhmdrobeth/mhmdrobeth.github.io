@@ -32,11 +32,9 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 Certification"
+      title: ""
       subtitle: ""
       text: |-
-
-        I am pleased to formally acknowledge the successful completion of the Cybersecurity in Ready4AI & Security Program, which has provided me with a comprehensive understanding of advanced cybersecurity principles and the strategic implementation of cutting-edge technologies to safeguard data integrity and ensure robust protection of information systems.
 
     design:
       columns: "1"
