@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Ggplot2 adalah salah satu paket visualisasi data paling populer di R yang dirancang untuk membuat grafik yang elegan, konsisten, dan fleksibel. Paket ini berbasis pada konsep "Grammar of Graphics," yang memungkinkan pengguna untuk membangun visualisasi dengan menggabungkan berbagai elemen atau lapisan. ggplot2 sangat berguna dalam eksplorasi data serta pelaporan visual yang lebih profesional Struktur dasar dari ggplot2 terdiri dari tiga komponen utama data, aesthetic mapping (aes), dan geometries (geom). Data adalah dataset yang menjadi dasar visualisasi, aesthetic mapping digunakan untuk memetakan variabel dalam dataset ke elemen visual seperti sumbu, warna, ukuran, atau bentuk, sedangkan geometries menentukan jenis grafik yang digunakan, seperti titik (scatter plot), batang (bar chart), atau garis (line chart).
+abstract: Ggplot2 is one of the most popular data visualization packages in R, designed to create elegant, consistent, and flexible graphics. This package is based on the "Grammar of Graphics" concept, which allows users to build visualizations by layering various elements. ggplot2 is particularly useful for data exploration as well as professional visual reporting. The basic structure of ggplot2 consists of three main components data, aesthetic mapping (aes), and geometries (geom). Data is the dataset serving as the foundation of the visualization. Aesthetic mapping maps variables in the dataset to visual elements such as axes, color, size, or shape. Geometries define the type of chart, such as points (scatter plots), bars (bar charts), or lines (line charts).
 
 # Summary. An optional shortened abstract.
 summary: Project Document RMarkdown Data Vizualitation
@@ -27,8 +27,8 @@ tags:
 featured: true
 
 links:
-  - name: Custom Link
-    url: http://example.org
+  - name:
+    url:
 url_pdf: https://drive.google.com/file/d/1Qg57SK_mk_GOfaN9rnJuieXqvlTVlWYC/view?usp=drive_link
 url_code: ""
 url_dataset: ""
