@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Ggplot2 adalah salah satu paket visualisasi data paling populer di R yang dirancang untuk membuat grafik yang elegan, konsisten, dan fleksibel. Paket ini berbasis pada konsep "Grammar of Graphics," yang memungkinkan pengguna untuk membangun visualisasi dengan menggabungkan berbagai elemen atau lapisan. ggplot2 sangat berguna dalam eksplorasi data serta pelaporan visual yang lebih profesional Struktur dasar dari ggplot2 terdiri dari tiga komponen utama data, aesthetic mapping (aes), dan geometries (geom). Data adalah dataset yang menjadi dasar visualisasi, aesthetic mapping digunakan untuk memetakan variabel dalam dataset ke elemen visual seperti sumbu, warna, ukuran, atau bentuk, sedangkan geometries menentukan jenis grafik yang digunakan, seperti titik (scatter plot), batang (bar chart), atau garis (line chart).
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Project Document RMarkdown Data Vizualitation
 
 tags:
 
