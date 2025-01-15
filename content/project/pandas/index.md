@@ -1,11 +1,13 @@
 ---
-title: Project Data Vizualitatio
-date: 2025-01-16
-external_link: https://drive.google.com/file/d/1Qg57SK_mk_GOfaN9rnJuieXqvlTVlWYC/view?usp=drive_link
+title: pandas
+date: 2023-10-26
+external_link: https://github.com/pytorch/pytorch
 tags:
-  
+  - Hugo
+  - Wowchemy
+  - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
 
 <!--more-->
