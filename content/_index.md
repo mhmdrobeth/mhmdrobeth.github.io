@@ -52,13 +52,14 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+      text: "Rowiyani 1*, Adiyah Mahiruna 2, Khoerul Soleh 3, Muhammad Robeth Suprayitno 4, Bintang Maira
+Cahaya Putra 5"
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      #view: citation
   - block: collection
     id: talks
     content:
