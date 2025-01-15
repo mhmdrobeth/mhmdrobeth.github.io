@@ -52,8 +52,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: "Rowiyani 1*, Adiyah Mahiruna 2, Khoerul Soleh 3, Muhammad Robeth Suprayitno 4, Bintang Maira
-Cahaya Putra 5"
+      text: ""
       filters:
         folders:
           - publication
