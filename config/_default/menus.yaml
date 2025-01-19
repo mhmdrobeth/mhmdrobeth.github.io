@@ -13,8 +13,8 @@ main:
   - name: ""
     url: ""
     weight: 12
-  - name: ''
-    url:''
+  - name: ""
+    url:
     weight: 13
   - name: Experience
     url: experience/
