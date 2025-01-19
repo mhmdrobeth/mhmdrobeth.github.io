@@ -13,8 +13,8 @@ main:
   - name: ""
     url: ""
     weight: 12
-  - name: News
-    url: /#news
+  - name: ''
+    url:''
     weight: 13
   - name: Experience
     url: experience/
