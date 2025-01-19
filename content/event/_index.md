@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: ""
 cms_exclude: true
 #url: talk
 
@@ -8,6 +8,6 @@ view: card
 
 # Optional cover image (relative to `assets/media/` folder).
 image:
-  caption: ''
-  filename: ''
+  caption: ""
+  filename: ""
 ---
