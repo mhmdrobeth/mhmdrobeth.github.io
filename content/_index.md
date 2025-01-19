@@ -60,9 +60,9 @@ sections:
     design:
       view: citation
   - block: collection
-    id: talks
+    id: ""
     content:
-      title: Recent & Upcoming Talks
+      title: ""
       filters:
         folders:
           - event
@@ -72,7 +72,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: ""
       subtitle: ""
       text: ""
       # Page type to display. E.g. post, talk, publication...
