@@ -8,6 +8,4 @@ tags:
   - Markdown
 ---
 
-.
-
 <!--more-->
