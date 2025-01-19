@@ -10,12 +10,12 @@ main:
   - name: Papers
     url: /#papers
     weight: 11
-  - name: ""
-    url: ""
-    weight: 12
-  - name: ""
+  - name:
     url:
-    weight: 13
+    weight:
+  - name:
+    url:
+    weight:
   - name: Experience
     url: experience/
     weight: 20
