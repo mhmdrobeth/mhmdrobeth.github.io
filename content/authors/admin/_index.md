@@ -135,27 +135,27 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: "Ready4A1&Security Training Progran Microsoff SC-900"
-    url: https://drive.google.com/file/d/1GtC99NJYVquASjRyhBnuXq9ttI4gYUJc/view?usp=drivesdk
+    url: https://drive.google.com/file/d/1GtC99NJYVquASjRyhBnuXq9ttI4gYUJc/view?usp=drive_link
     date: "2024-07-01"
-    awarder: 
-    icon: 
+    awarder:
+    icon:
     summary: |
       I am pleased to formally acknowledge the successful completion of the Cybersecurity in Ready4AI & Security Program, which has provided me with a comprehensive understanding of advanced cybersecurity principles and the strategic implementation of cutting-edge technologies to safeguard data integrity and ensure robust protection of information systems.
 
   - title: "Work Safety Poster Design Universitas Gadjah Mada"
-    url: https://drive.google.com/file/d/14TrZBv5nwUwldBEifBh9DEe6K0MV8uoh/view?usp=drivesdk
+    url: https://drive.google.com/file/d/14TrZBv5nwUwldBEifBh9DEe6K0MV8uoh/view?usp=drive_link
     date: "2024-06-29"
-    awarder: 
-    icon: 
+    awarder:
+    icon:
     summary: |
       This certificate recognizes participation in the National Occupational Safety and Health (K3) Poster Design Competition organized by Universitas Gadjah Mada. It acknowledges the recipient's creativity and effort in promoting K3 awareness through innovative design, contributing to the event's success and the dissemination of important safety and health messages.
 
   - title: "Indonesia Medical Olimpiade"
-    url: https://drive.google.com/file/d/1NhQKLR49VyAlJbh-BmuYcYYtgBso8NmP/view?usp=drivesdk
-    
+    url: https://drive.google.com/file/d/1Gkj_he7amVtLTzITSXZEu70FLDMDwnvo/view?usp=drive_link
+
     date: "2024-05-18"
-    awarder: 
-    icon: 
+    awarder:
+    icon:
     summary: |
       This certificate is awarded for achieving 1st place in a national-level accounting competition for higher education institutions. It recognizes the recipient's exceptional knowledge, skills, and dedication in the field of accounting, demonstrating excellence and setting a standard of achievement in academic and professional competencies at the national level.
 ---
