@@ -156,7 +156,15 @@ awards:
     icon:
     summary: |
       This certificate is awarded for achieving 1st place in a national-level accounting competition for higher education institutions. It recognizes the recipient's exceptional knowledge, skills, and dedication in the field of accounting, demonstrating excellence and setting a standard of achievement in academic and professional competencies at the national level.
-      
+
+  - title: "Indonesia Medical Olimpiade"
+    url: https://drive.google.com/file/d/19pMIfN-ZCFfx5eUsD-_k_tofFcY4XNJA/view?usp=drive_link
+
+    date: "2024-05-18"
+    awarder:
+    icon:
+    summary: |
+      This certificate is awarded for achieving 1st place in a national-level accounting competition for higher education institutions. It recognizes the recipient's exceptional knowledge, skills, and dedication in the field of accounting, demonstrating excellence and setting a standard of achievement in academic and professional competencies at the national level. 
 ---
 
 ## About Me
