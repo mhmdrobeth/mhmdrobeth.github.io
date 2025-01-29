@@ -27,15 +27,15 @@ marketing:
     baidu: ''
 
 # Site header
-header: 'Project Ujian Akhir Pengantar RPL'
-  navbar: ""
+header:
+  navbar: 
     enable: true
     blox: "navbar"
     fixed_to_top: true
     show_search: true
     show_theme_chooser: true
     logo:
-      text: ""
+      text: "Project Akhir Pengantar RPL"
 
 # Site footer
 footer:
