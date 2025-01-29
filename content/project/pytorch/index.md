@@ -1,7 +1,7 @@
 ---
-title: Balsamiq Project
+title: Design Aplication in Figma
 date: 2025-01-29
-external_link: https://drive.google.com/file/d/1uSLimvagGe5d0mbXI8sbGOwAMoOTkc__/view?usp=drive_link
+external_link: https://www.figma.com/design/y1DwWPuSjUdCF9D3HLdej2/Untitled?node-id=11-14&p=f&t=sSJ5LKs5QsGiyWvd-0
 tags:
   - Hugo
   - Wowchemy
