@@ -27,8 +27,8 @@ marketing:
     baidu: ''
 
 # Site header
-header:"Project Ujian Akhir Pengantar RPL"
-  navbar:
+header: "Project Ujian Akhir Pengantar RPL"
+  navbar: ""
     enable: true
     blox: "navbar"
     fixed_to_top: true
