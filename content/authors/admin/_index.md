@@ -74,6 +74,7 @@ work:
     date_end: 2023-10-02
     summary: |
       Responsibilities include:
+      
       I possess extensive expertise in the installation, maintenance, and repair of Access Control, CCTV, and Gate Parking systems, consistently achieving an 80% success rate in optimizing system performance, ensuring seamless integration, and maintaining compliance with industry security standards. Furthermore, I excel in developing and executing data-driven marketing strategies, leveraging market analysis and consumer insights to enhance brand visibility, drive customer engagement, and foster sustainable business growth. My strong planning and mapping capabilities enable me to design and implement structured, results-oriented project frameworks, ensuring operational efficiency, risk mitigation, and alignment with strategic objectives.
   - position: Network Engineer
     company_name: CV JARINGAN TELEKOMUNIKASI SUKOWATI
@@ -83,6 +84,7 @@ work:
     date_end: 2022-03-16
     summary: |
       Responsibilities include:
+
       I possess comprehensive expertise in leading network installation projects through both online and offline channels, ensuring seamless execution, optimal system integration, and adherence to industry best practices. My proficiency in managing ongoing projects allows me to oversee operations effectively, optimize resource allocation, mitigate risks, and ensure timely completion while maintaining quality and budget compliance. Additionally, I specialize in developing advanced network security features, implementing robust security protocols, enhancing threat detection mechanisms, and fortifying infrastructure resilience to safeguard against emerging cyber threats and ensure long-term system integrity.
 
 # Skills
