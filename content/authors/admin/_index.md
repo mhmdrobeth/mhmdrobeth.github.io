@@ -140,13 +140,13 @@ awards:
     summary: |
       I am pleased to formally acknowledge the successful completion of the Cybersecurity in Ready4AI & Security Program, which has provided me with a comprehensive understanding of advanced cybersecurity principles and the strategic implementation of cutting-edge technologies to safeguard data integrity and ensure robust protection of information systems.
 
-  - title: "Work Safety Poster Design Universitas Gadjah Mada"
-    url: https://drive.google.com/file/d/14TrZBv5nwUwldBEifBh9DEe6K0MV8uoh/view?usp=drive_link
+  - title: "National Webinar "Technology-based Business Renewals of Established Firms"
+    url: https://drive.google.com/file/d/1FEcY3p8luUKoGDe_EK3GL0ygmoHcAxZP/view?usp=drive_link
     date: "2024-06-29"
     awarder:
     icon:
     summary: |
-      This certificate recognizes participation in the National Occupational Safety and Health (K3) Poster Design Competition organized by Universitas Gadjah Mada. It acknowledges the recipient's creativity and effort in promoting K3 awareness through innovative design, contributing to the event's success and the dissemination of important safety and health messages.
+      The "National Webinar on Technology-based Business Renewals of Established Firms" focused on how established businesses can leverage cutting-edge technologies to innovate and stay competitive in a rapidly changing market. Experts and industry leaders discussed strategies for integrating digital transformation, adopting automation, and utilizing data analytics to enhance business processes. The webinar highlighted real-world case studies of firms that successfully embraced technological advancements to drive growth and renewal. The impact of the webinar was significant, providing businesses with actionable insights and strategies for adopting technology to modernize operations, improve customer experiences, and achieve sustainable growth in an increasingly digital economy.
 
   - title: "Indonesia Medical Olimpiade"
     url: https://drive.google.com/file/d/19pMIfN-ZCFfx5eUsD-_k_tofFcY4XNJA/view?usp=drive_link
