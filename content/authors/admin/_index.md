@@ -160,4 +160,4 @@ awards:
 
 ## About Me
 
-Hi, I’m Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute of Statistics and Business Semarang. I have experience in network engineering, data design, and data processing, including database management systems and data warehouses.
+I am Muhammad Robeth Suprayitno, a software engineering student at the Muhammadiyah Institute of Statistics and Business Semarang. With a strong background in network engineering, data design, and data processing, I possess expertise in database management systems and data warehousing. My academic journey, coupled with hands-on experience, has equipped me with a comprehensive understanding of modern data infrastructures and the technical skills needed to optimize and streamline business operations through advanced technology solutions.
