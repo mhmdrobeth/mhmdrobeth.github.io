@@ -6,34 +6,8 @@
       <stop offset="100%" stop-color="#0070e5"/>
     </linearGradient>
   </defs>
-
-  <!-- Background with Gradient -->
-  <rect width="960" height="540" fill="url(#gradient)" />
-
-  <!-- Abstract Network Connections -->
-  <circle cx="200" cy="250" r="120" fill="url(#gradient)" opacity="0.5"/>
-  <circle cx="400" cy="280" r="100" fill="url(#gradient)" opacity="0.5"/>
-  <circle cx="600" cy="260" r="90" fill="url(#gradient)" opacity="0.5"/>
-  <circle cx="800" cy="300" r="110" fill="url(#gradient)" opacity="0.5"/>
-
-  <!-- Network Paths -->
-  <line x1="200" y1="250" x2="400" y2="280" stroke="url(#gradient)" stroke-width="5"/>
-  <line x1="400" y1="280" x2="600" y2="260" stroke="url(#gradient)" stroke-width="5"/>
-  <line x1="600" y1="260" x2="800" y2="300" stroke="url(#gradient)" stroke-width="5"/>
-
-  <!-- Abstract Geometric Shapes -->
-  <path d="M300 170 Q320 230 360 220 T400 270" fill="none" stroke="url(#gradient)" stroke-width="4"/>
-  <path d="M500 200 Q520 250 560 230 T600 260" fill="none" stroke="url(#gradient)" stroke-width="4"/>
-
-  <!-- Connecting Dots -->
-  <circle cx="200" cy="250" r="8" fill="#ffffff"/>
-  <circle cx="400" cy="280" r="8" fill="#ffffff"/>
-  <circle cx="600" cy="260" r="8" fill="#ffffff"/>
-  <circle cx="800" cy="300" r="8" fill="#ffffff"/>
-
-  <!-- Wi-Fi Signal -->
-  <circle cx="400" cy="350" r="7" fill="#ffffff"/>
-  <path d="M390 340 Q400 320 410 340" stroke="#ffffff" stroke-width="2" fill="none"/>
-  <path d="M380 330 Q400 310 420 330" stroke="#ffffff" stroke-width="2" fill="none"/>
-  <path d="M370 320 Q400 300 430 320" stroke="#ffffff" stroke-width="2" fill="none"/>
+  <path d="M0 400C80 380 160 320 240 300C320 280 400 320 480 340C560 360 640 360 720 340C800 320 880 280 960 280L960 540L0 540Z" fill="url(#gradient)"></path>
+  <path d="M0 350C80 330 160 270 240 250C320 230 400 270 480 290C560 310 640 310 720 290C800 270 880 230 960 230L960 540L0 540Z" fill="url(#gradient)" opacity="0.8"></path>
+  <path d="M0 300C80 280 160 220 240 200C320 180 400 220 480 240C560 260 640 260 720 240C800 220 880 180 960 180L960 540L0 540Z" fill="url(#gradient)" opacity="0.6"></path>
+  <path d="M0 250C80 230 160 170 240 150C320 130 400 170 480 190C560 210 640 210 720 190C800 170 880 130 960 130L960 540L0 540Z" fill="url(#gradient)" opacity="0.4"></path>
 </svg>
