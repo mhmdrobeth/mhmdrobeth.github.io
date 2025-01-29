@@ -6,8 +6,34 @@
       <stop offset="100%" stop-color="#0070e5"/>
     </linearGradient>
   </defs>
-  <path d="M0 400C80 380 160 320 240 300C320 280 400 320 480 340C560 360 640 360 720 340C800 320 880 280 960 280L960 540L0 540Z" fill="url(#gradient)"></path>
-  <path d="M0 350C80 330 160 270 240 250C320 230 400 270 480 290C560 310 640 310 720 290C800 270 880 230 960 230L960 540L0 540Z" fill="url(#gradient)" opacity="0.8"></path>
-  <path d="M0 300C80 280 160 220 240 200C320 180 400 220 480 240C560 260 640 260 720 240C800 220 880 180 960 180L960 540L0 540Z" fill="url(#gradient)" opacity="0.6"></path>
-  <path d="M0 250C80 230 160 170 240 150C320 130 400 170 480 190C560 210 640 210 720 190C800 170 880 130 960 130L960 540L0 540Z" fill="url(#gradient)" opacity="0.4"></path>
+  <!-- Background -->
+  <rect width="960" height="540" fill="url(#gradient)"></rect>
+  
+  <!-- Network Engineer -->
+  <circle cx="200" cy="300" r="50" fill="#f8c291"/> <!-- Head -->
+  <rect x="180" y="350" width="40" height="100" fill="#2c3e50"/> <!-- Body -->
+  <rect x="165" y="450" width="15" height="50" fill="#34495e"/> <!-- Left Leg -->
+  <rect x="220" y="450" width="15" height="50" fill="#34495e"/> <!-- Right Leg -->
+  <rect x="155" y="370" width="15" height="60" fill="#2c3e50"/> <!-- Left Arm -->
+  <rect x="230" y="370" width="15" height="60" fill="#2c3e50"/> <!-- Right Arm -->
+  
+  <!-- Laptop -->
+  <rect x="250" y="350" width="70" height="40" fill="#bdc3c7"/> <!-- Laptop Base -->
+  <rect x="255" y="320" width="60" height="30" fill="#ecf0f1"/> <!-- Laptop Screen -->
+  
+  <!-- Server Rack -->
+  <rect x="600" y="250" width="80" height="200" fill="#2c3e50"/> <!-- Rack Body -->
+  <rect x="610" y="260" width="60" height="30" fill="#ecf0f1"/> <!-- Server 1 -->
+  <rect x="610" y="300" width="60" height="30" fill="#ecf0f1"/> <!-- Server 2 -->
+  <rect x="610" y="340" width="60" height="30" fill="#ecf0f1"/> <!-- Server 3 -->
+  <rect x="610" y="380" width="60" height="30" fill="#ecf0f1"/> <!-- Server 4 -->
+  
+  <!-- Network Cables -->
+  <line x1="320" y1="370" x2="600" y2="270" stroke="#ecf0f1" stroke-width="3"/>
+  <line x1="320" y1="370" x2="600" y2="310" stroke="#ecf0f1" stroke-width="3"/>
+  
+  <!-- Wi-Fi Signal -->
+  <circle cx="250" cy="250" r="5" fill="#ecf0f1"/>
+  <path d="M240 260 Q250 240 260 260" stroke="#ecf0f1" stroke-width="2" fill="none"/>
+  <path d="M230 270 Q250 230 270 270" stroke="#ecf0f1" stroke-width="2" fill="none"/>
 </svg>
