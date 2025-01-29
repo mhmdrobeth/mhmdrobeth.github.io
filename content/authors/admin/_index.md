@@ -74,7 +74,7 @@ work:
     date_end: 2023-10-02
     summary: |
       Responsibilities include:
-      
+
       I possess extensive expertise in the installation, maintenance, and repair of Access Control, CCTV, and Gate Parking systems, consistently achieving an 80% success rate in optimizing system performance, ensuring seamless integration, and maintaining compliance with industry security standards. Furthermore, I excel in developing and executing data-driven marketing strategies, leveraging market analysis and consumer insights to enhance brand visibility, drive customer engagement, and foster sustainable business growth. My strong planning and mapping capabilities enable me to design and implement structured, results-oriented project frameworks, ensuring operational efficiency, risk mitigation, and alignment with strategic objectives.
   - position: Network Engineer
     company_name: CV JARINGAN TELEKOMUNIKASI SUKOWATI
@@ -149,15 +149,24 @@ awards:
       This certificate recognizes participation in the National Occupational Safety and Health (K3) Poster Design Competition organized by Universitas Gadjah Mada. It acknowledges the recipient's creativity and effort in promoting K3 awareness through innovative design, contributing to the event's success and the dissemination of important safety and health messages.
 
   - title: "Indonesia Medical Olimpiade"
-    url: https://drive.google.com/file/d/1Gkj_he7amVtLTzITSXZEu70FLDMDwnvo/view?usp=drive_link
+    url: https://drive.google.com/file/d/19pMIfN-ZCFfx5eUsD-_k_tofFcY4XNJA/view?usp=drive_link
 
     date: "2024-05-18"
     awarder:
     icon:
     summary: |
       This certificate is awarded for achieving 1st place in a national-level accounting competition for higher education institutions. It recognizes the recipient's exceptional knowledge, skills, and dedication in the field of accounting, demonstrating excellence and setting a standard of achievement in academic and professional competencies at the national level.
+
+    - title: "National Webinar "Technology-based Business Renewals of Established Firms"
+    url: https://drive.google.com/file/d/19pMIfN-ZCFfx5eUsD-_k_tofFcY4XNJA/view?usp=drive_link
+
+    date: "2024-03-22"
+    awarder:
+    icon:
+    summary: |
+      The "National Webinar on Technology-based Business Renewals of Established Firms" focused on how established businesses can leverage cutting-edge technologies to innovate and stay competitive in a rapidly changing market. Experts and industry leaders discussed strategies for integrating digital transformation, adopting automation, and utilizing data analytics to enhance business processes. The webinar highlighted real-world case studies of firms that successfully embraced technological advancements to drive growth and renewal. The impact of the webinar was significant, providing businesses with actionable insights and strategies for adopting technology to modernize operations, improve customer experiences, and achieve sustainable growth in an increasingly digital economy.
 ---
 
 ## About Me
 
-Hi, I’m Muhammad Robeth Suprayitno, a software engineering student from the Muhammadiyah Institute of Statistics and Business Semarang. I have experience in network engineering, data design, and data processing, including database management systems and data warehouses.
+I am Muhammad Robeth Suprayitno, a software engineering student at the Muhammadiyah Institute of Statistics and Business Semarang. With a strong background in network engineering, data design, and data processing, I possess expertise in database management systems and data warehousing. My academic journey, coupled with hands-on experience, has equipped me with a comprehensive understanding of modern data infrastructures and the technical skills needed to optimize and streamline business operations through advanced technology solutions.
