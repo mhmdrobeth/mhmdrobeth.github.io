@@ -140,7 +140,7 @@ awards:
     summary: |
       I am pleased to formally acknowledge the successful completion of the Cybersecurity in Ready4AI & Security Program, which has provided me with a comprehensive understanding of advanced cybersecurity principles and the strategic implementation of cutting-edge technologies to safeguard data integrity and ensure robust protection of information systems.
 
-  - title: "National Webinar "Technology-based Business Renewals of Established Firms"
+  - title: "National Webinar-Technology-based Business Renewals of Established Firms"
     url: https://drive.google.com/file/d/1FEcY3p8luUKoGDe_EK3GL0ygmoHcAxZP/view?usp=drive_link
     date: "2024-06-29"
     awarder:
