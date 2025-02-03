@@ -41,11 +41,7 @@ sections:
 
         Skills & Expertise:
 
-        -Network Engineering & Security
-        -Troubleshooting & Problem Solving (85% success rate)
-        -Network Infrastructure Design & Optimization
-        -Data Processing & Database Management
-        -System Architecture & IT Solutions
+        Network Engineering & Security, Troubleshooting & Problem Solving (85% success rate), Network Infrastructure Design & Optimization, Data Processing & Database Management, System Architecture & IT Solutions
 
         I am always eager to learn and take on new challenges in the field of IT and networking.
 
