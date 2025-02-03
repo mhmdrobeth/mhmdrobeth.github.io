@@ -39,7 +39,7 @@ sections:
 
         My expertise extends to database management, data processing, and system architecture, making me a well-rounded IT professional. I am passionate about leveraging technology to create efficient and scalable solutions.
 
-        📌 Skills & Expertise:
+        Skills & Expertise:
 
         -Network Engineering & Security
         -Troubleshooting & Problem Solving (85% success rate)
