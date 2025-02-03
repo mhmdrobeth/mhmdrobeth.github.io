@@ -32,9 +32,22 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ""
+      title: "📚 My Research"
       subtitle: ""
       text: |-
+        I am a dedicated software engineering student with a strong expertise in network engineering, specializing in network infrastructure, security, and optimization. I have hands-on experience in network design, configuration, and maintenance, ensuring optimal performance and security. Additionally, I excel in troubleshooting, successfully resolving 85% of network issues efficiently.
+
+        My expertise extends to database management, data processing, and system architecture, making me a well-rounded IT professional. I am passionate about leveraging technology to create efficient and scalable solutions.
+
+        📌 Skills & Expertise:
+
+        -Network Engineering & Security
+        -Troubleshooting & Problem Solving (85% success rate)
+        -Network Infrastructure Design & Optimization
+        -Data Processing & Database Management
+        -System Architecture & IT Solutions
+
+        I am always eager to learn and take on new challenges in the field of IT and networking.
 
     design:
       columns: "1"
