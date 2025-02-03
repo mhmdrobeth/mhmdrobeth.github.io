@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "📚 My Portofolio"
       subtitle: ""
       text: |-
         I am a dedicated software engineering student with a strong expertise in network engineering, specializing in network infrastructure, security, and optimization. I have hands-on experience in network design, configuration, and maintenance, ensuring optimal performance and security. Additionally, I excel in troubleshooting, successfully resolving 85% of network issues efficiently.
